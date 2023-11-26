@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1700973195 source:c:\users\bruno\music\carpeta\proyecto\agg.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estructura.h"
+
+1700973112 c:\users\bruno\music\carpeta\proyecto\estructura.h
+
+1700973349 source:c:\users\bruno\music\carpeta\proyecto\busca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estructura.h"
+
+1700973248 source:c:\users\bruno\music\carpeta\proyecto\cambiarcom.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estructura.h"
+
+1700973657 source:c:\users\bruno\music\carpeta\proyecto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estructura.h"
+	"agg.h"
+	"CambiarCom.h"
+	"MostrarFal.h"
+	"MostrarTo.h"
+	"Busca.h"
+	"Salir.h"
+
+1700973140 c:\users\bruno\music\carpeta\proyecto\agg.h
+
+1700973229 c:\users\bruno\music\carpeta\proyecto\cambiarcom.h
+
+1700973264 c:\users\bruno\music\carpeta\proyecto\mostrarfal.h
+
+1700973305 c:\users\bruno\music\carpeta\proyecto\mostrarto.h
+
+1700973334 c:\users\bruno\music\carpeta\proyecto\busca.h
+
+1700973370 c:\users\bruno\music\carpeta\proyecto\salir.h
+
+1700973289 source:c:\users\bruno\music\carpeta\proyecto\mostrarfal.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estructura.h"
+
+1700973322 source:c:\users\bruno\music\carpeta\proyecto\mostrarto.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estructura.h"
+
+1700973382 source:c:\users\bruno\music\carpeta\proyecto\salir.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"estructura.h"
+
